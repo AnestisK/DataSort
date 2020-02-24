@@ -4,4 +4,4 @@ The sort.pl script is a response ot the coding challenge of asking the end user 
 This particular script requires the following Perl modules from CPAN:
 * DBD
 * DBI::CSV
-Use cpan -i Bundle::<module-name> to install required modules.  Ensure make, automake, and gcc are also installed on your system.
+Use cpan -i Bundle::\<module-name\> to install required modules.  Ensure make, automake, and gcc are also installed on your system.
